@@ -1,2 +1,2 @@
-# AICTE_Internship_Feb_2025
+# AICTE_powerBI_Internship_Feb_2025
 Sustainable Supply chain Performance Dashboard
